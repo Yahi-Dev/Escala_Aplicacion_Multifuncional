@@ -1,0 +1,50 @@
+[
+  {
+    "name": "string",
+    "lastName": "string",
+    "userName": "string",
+    "mailAddress": "string",
+    "password": "string",
+    "phoneNumber": "string"
+  },
+  {
+    "name": "axel",
+    "lastName": "soto",
+    "userName": "axel",
+    "mailAddress": "yahinnieltheking01@gmail.com",
+    "password": "12345",
+    "phoneNumber": "+18293408864"
+  },
+  {
+    "name": "Yahinniel ",
+    "lastName": "Vasquez",
+    "userName": "yahi",
+    "mailAddress": "yahinnieltheking01@gmail.com",
+    "password": "141617",
+    "phoneNumber": "+18293408864"
+  },
+  {
+    "name": "aniel",
+    "lastName": "itla",
+    "userName": "aniel",
+    "mailAddress": "yahinnieltheking01@gmail.com",
+    "password": "141617",
+    "phoneNumber": "+18293408864"
+  },
+  {
+    "name": "Yahinniel ",
+    "lastName": "Yahinniel Vasquez",
+    "userName": "oski",
+    "mailAddress": "yahinnieltheking01@gmail.com",
+    "password": "1234",
+    "phoneNumber": "+18293408864"
+  },
+  {
+    "name": "Yahinniel ",
+    "lastName": "Vasquez",
+    "userName": "yahi",
+    "mailAddress": "yahinnieltheking01@gmail.com",
+    "password": "1234",
+    "phoneNumber": "8293408864"
+  }
+]

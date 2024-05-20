@@ -1,0 +1,104 @@
+<!-- RegistrarUsuario.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        PRACTICA 3
+    </title>
+    <link rel="icon" href="../logo.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/style.css"> 
+    <style>
+        .background-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            transition: background-color 2s ease; 
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="background-container"></div>
+    <div class="container">
+        <form>
+            <div class="form-group">
+                <label class="label" for="name">Name</label>
+                <input class="input" type="text" name="name" id="name">
+            </div>
+
+            <div class="form-group">
+                <label class="label" for="last-name">Last Name</label>
+                <input class="input" type="text" name="last-name" id="last-name">
+            </div>
+
+            <div class="form-group">
+                <label class="label" for="username">Username</label>
+                <input class="input" type="text" name="username" id="username">
+            </div>
+
+            <div class="form-group">
+                <label class="label" for="email">Email address</label>
+                <input class="input" type="email" name="email" id="email">
+            </div>
+
+            <div class="form-group">
+                <label class="label" for="password">Password</label>
+                <input class="input" type="password" name="password" id="password">
+            </div>
+
+            <div class="form-group">
+                <label class="label" for="number-phone">Number Phone</label>
+                <input class="input" type="text" name="number-phone" id="number-phone">
+            </div>
+
+            <div class="form-group">
+                <button class="btn" type="submit" id="submit">Submit</button>
+            </div>
+
+        </form>
+    </div>
+    <div class="stars-container" id="stars-container"></div>
+    <script src="../Js/app.js"></script>
+    <script>
+        const colors = ["#3498db", "#e74c3c", "#2ecc71", "#f1c40f", "#9b59b6", "#e67e22", "#1abc9c", "#e83e8c"];
+        let currentIndex = 0;
+
+        function changeBackgroundColor() {
+            const backgroundContainer = document.querySelector('.background-container');
+            const newColor = colors[currentIndex];
+            backgroundContainer.style.backgroundColor = newColor;
+            currentIndex = (currentIndex + 1) % colors.length;
+        }
+
+        setInterval(changeBackgroundColor, 2000);
+
+        function createStars() {
+            const starsContainer = document.getElementById('stars-container');
+            const numberOfStars = 100; // Cambia este valor según la cantidad deseada de estrellas
+    
+            for (let i = 0; i < numberOfStars; i++) {
+                const star = document.createElement('div');
+                star.classList.add('star');
+                star.style.left = `${Math.random() * 100}%`;
+                star.style.top = `${Math.random() * 100}%`;
+                star.style.animationDuration = `${Math.random() * 5 + 2}s`; // Duración de la animación
+    
+                starsContainer.appendChild(star);
+            }
+        }
+        createStars();
+    </script>
+    <br>
+Créditos y agradecimientos a las personas que me brindaron su ayuda: <br>
+<b>
+    - Aniel Reyes <br> - Ronald Ramirez  <br> - Crismel Mariñez <br> - Nicolle Batista
+</b>
+
+
+</body>
+</html>

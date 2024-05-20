@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        PRACTICA 3
+    </title>
+    <link rel="icon" href="../logo.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/divisas.css">
+    <link rel="stylesheet" href="../CSS/coins.css">
+    <script src="../Js/coins.js"></script>
+    <script src="../Js/divisas.js"></script>
+    <style>
+        audio::-webkit-media-controls{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="coin-container"></div> 
+    <h1><center>Convertidora de Divisas</center></h1>
+    <h2><center>De USD A DOP 💸🪙 </center></h2>
+    <div class="input-container">
+        <label for="numero1">Digite las monedas en dolares para convertir</label>
+        <input type="number" id="numero1" name="numero1">
+    </div>
+    <div class="button-container">
+        <br>
+        <button class="btn" type="submit" id="submitConvertir">Convertir a DOP</button>
+    </div>
+    <div class="result-container">
+        <br>
+        <label for="resultado">Convertir</label>
+        <input type="text" id="resultadoconvertir" name="resultado" readonly>
+    </div>
+    <div class="return-container">
+        <br>
+        <a href="../HTML/Menu.html">
+            <button class="btn">Volver</button>
+            <br>
+            <audio controls autoplay>
+                <source src="../x2mate.com - Sonido de dinero (320 kbps).mp3">
+            </audio>
+        </a>
+    </div>
+</body>
+</html>

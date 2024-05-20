@@ -1,0 +1,504 @@
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 40 * 56,5 
+Resultado: DOP$ 2260 
+Fecha: 10/10/2023 12:01:06
+///////////////////////////////////////
+
+User: string
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 0 * 56,5 
+Resultado: DOP$ 0 
+Fecha: 10/10/2023 12:24:20
+///////////////////////////////////////
+
+User: string
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 0 * 56,5 
+Resultado: DOP$ 0 
+Fecha: 10/10/2023 13:01:25
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 32 * 56,5 
+Resultado: DOP$ 1808 
+Fecha: 10/10/2023 13:08:21
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 32 * 56,5 
+Resultado: DOP$ 1808 
+Fecha: 10/10/2023 13:08:21
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 26 * 56,5 
+Resultado: DOP$ 1469 
+Fecha: 10/10/2023 13:12:13
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 26 * 56,5 
+Resultado: DOP$ 1469 
+Fecha: 10/10/2023 13:12:13
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 26 * 56,5 
+Resultado: DOP$ 1469 
+Fecha: 10/10/2023 13:13:09
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 26 * 56,5 
+Resultado: DOP$ 1469 
+Fecha: 10/10/2023 13:13:09
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 26 * 56,5 
+Resultado: DOP$ 1469 
+Fecha: 10/10/2023 13:13:09
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 10 * 56,5 
+Resultado: DOP$ 565 
+Fecha: 10/10/2023 13:13:13
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 8787 * 56,5 
+Resultado: DOP$ 496465,5 
+Fecha: 10/10/2023 13:15:47
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 16 * 56,5 
+Resultado: DOP$ 904 
+Fecha: 10/10/2023 13:23:36
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 13 * 56,5 
+Resultado: DOP$ 734,5 
+Fecha: 10/10/2023 13:24:19
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 212212 * 56,5 
+Resultado: DOP$ 11989978 
+Fecha: 10/10/2023 13:29:40
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 8787 * 56,5 
+Resultado: DOP$ 496465,5 
+Fecha: 10/10/2023 13:30:05
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 76676 * 56,5 
+Resultado: DOP$ 4332194 
+Fecha: 10/10/2023 13:30:17
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 51 * 56,5 
+Resultado: DOP$ 2881,5 
+Fecha: 10/10/2023 13:33:04
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 6 * 56,5 
+Resultado: DOP$ 339 
+Fecha: 10/10/2023 13:33:11
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 6 * 56,5 
+Resultado: DOP$ 339 
+Fecha: 10/10/2023 13:33:11
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 6 * 56,5 
+Resultado: DOP$ 339 
+Fecha: 10/10/2023 13:33:11
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 37 * 56,5 
+Resultado: DOP$ 2090,5 
+Fecha: 10/10/2023 13:34:21
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 27 * 56,5 
+Resultado: DOP$ 1525,5 
+Fecha: 10/10/2023 15:28:43
+///////////////////////////////////////
+
+User: string
+Operation: Conversion de Farenheit a Celsius
+Input: (67 - 32) * 5/9
+Resultado: C° 19,444444444444443 
+Fecha: 10/10/2023 15:50:20
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 23 * 56,5 
+Resultado: DOP$ 1299,5 
+Fecha: 10/10/2023 16:02:43
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 11 * 56,5 
+Resultado: DOP$ 621,5 
+Fecha: 10/10/2023 16:03:44
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 11 * 56,5 
+Resultado: DOP$ 621,5 
+Fecha: 10/10/2023 16:03:44
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 11 * 56,5 
+Resultado: DOP$ 621,5 
+Fecha: 10/10/2023 16:03:44
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 16 * 56,5 
+Resultado: DOP$ 904 
+Fecha: 10/10/2023 16:04:40
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 0 * 56,5 
+Resultado: DOP$ 0 
+Fecha: 10/10/2023 16:06:40
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 0 * 56,5 
+Resultado: DOP$ 0 
+Fecha: 10/10/2023 16:06:43
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 0 * 56,5 
+Resultado: DOP$ 0 
+Fecha: 10/10/2023 16:06:43
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 10 * 56,5 
+Resultado: DOP$ 565 
+Fecha: 10/10/2023 16:07:43
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 19 * 56,5 
+Resultado: DOP$ 1073,5 
+Fecha: 10/10/2023 16:07:45
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (10 - 32) * 5/9
+Resultado: C° -12,222222222222221 
+Fecha: 10/10/2023 16:08:51
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (1 - 32) * 5/9
+Resultado: C° -17,22222222222222 
+Fecha: 10/10/2023 16:08:53
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 19 * 56,5 
+Resultado: DOP$ 1073,5 
+Fecha: 10/10/2023 16:08:58
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (17 - 32) * 5/9
+Resultado: C° -8,333333333333334 
+Fecha: 10/10/2023 16:13:00
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (21 - 32) * 5/9
+Resultado: C° -6,111111111111111 
+Fecha: 10/10/2023 16:13:07
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (22 - 32) * 5/9
+Resultado: C° -5,555555555555555 
+Fecha: 10/10/2023 16:20:16
+///////////////////////////////////////
+
+User: ange
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 7 * 56,5 
+Resultado: DOP$ 395,5 
+Fecha: 10/10/2023 18:16:37
+///////////////////////////////////////
+
+User: ange
+Operation: Conversion de Farenheit a Celsius
+Input: (8 - 32) * 5/9
+Resultado: C° -13,333333333333334 
+Fecha: 10/10/2023 18:16:49
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (19 - 32) * 5/9
+Resultado: C° -7,222222222222222 
+Fecha: 10/10/2023 18:26:17
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 3 * 56,5 
+Resultado: DOP$ 169,5 
+Fecha: 10/10/2023 18:27:39
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 3 * 56,5 
+Resultado: DOP$ 169,5 
+Fecha: 10/10/2023 18:27:39
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 3 * 56,5 
+Resultado: DOP$ 169,5 
+Fecha: 10/10/2023 18:27:39
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 3 * 56,5 
+Resultado: DOP$ 169,5 
+Fecha: 10/10/2023 18:27:39
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 16 * 56,5 
+Resultado: DOP$ 904 
+Fecha: 10/10/2023 18:29:10
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 80 * 56,5 
+Resultado: DOP$ 4520 
+Fecha: 10/10/2023 19:52:37
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 60 * 56,5 
+Resultado: DOP$ 3390 
+Fecha: 10/10/2023 19:52:50
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (50 - 32) * 5/9
+Resultado: C° 10 
+Fecha: 10/10/2023 19:54:41
+///////////////////////////////////////
+
+User: axel
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 40 * 56,5 
+Resultado: DOP$ 2260 
+Fecha: 10/10/2023 21:20:49
+///////////////////////////////////////
+
+User: axel
+Operation: Conversion de Farenheit a Celsius
+Input: (243 - 32) * 5/9
+Resultado: C° 117,22222222222223 
+Fecha: 10/10/2023 21:21:01
+///////////////////////////////////////
+
+User: string
+Operation: Suma
+Input: 0 + 0 
+Resultado: 0 
+Fecha: 11/10/2023 17:15:03
+///////////////////////////////////////
+
+User: yaji
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 17:15:16
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 19 * 56,5 
+Resultado: DOP$ 1073,5 
+Fecha: 11/10/2023 17:21:49
+///////////////////////////////////////
+
+User: yahi
+Operation: Conversion de Farenheit a Celsius
+Input: (13 - 32) * 5/9
+Resultado: C° -10,555555555555555 
+Fecha: 11/10/2023 17:21:55
+///////////////////////////////////////
+
+User: aniel
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 16 * 56,5 
+Resultado: DOP$ 904 
+Fecha: 11/10/2023 17:23:28
+///////////////////////////////////////
+
+User: aniel
+Operation: Conversion de Dolar a Peso Dominicano
+Input: 54544 * 56,5 
+Resultado: DOP$ 3081736 
+Fecha: 11/10/2023 17:23:36
+///////////////////////////////////////
+
+User: aniel
+Operation: Conversion de Farenheit a Celsius
+Input: (19 - 32) * 5/9
+Resultado: C° -7,222222222222222 
+Fecha: 11/10/2023 17:23:44
+///////////////////////////////////////
+
+User: string
+Operation: Suma
+Input: 0 + 0 
+Resultado: 0 
+Fecha: 11/10/2023 17:53:34
+///////////////////////////////////////
+
+User: string
+Operation: Suma
+Input: 0 + 0 
+Resultado: 0 
+Fecha: 11/10/2023 18:20:29
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 18:27:02
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 18:27:08
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 10 + 10 
+Resultado: 20 
+Fecha: 11/10/2023 18:28:36
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 18:30:42
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 18:30:42
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 10 + 10 
+Resultado: 20 
+Fecha: 11/10/2023 18:30:55
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 18:31:28
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 18:31:28
+///////////////////////////////////////
+
+User: yahi
+Operation: Suma
+Input: 10 + 10 
+Resultado: 20 
+Fecha: 11/10/2023 18:31:53
+///////////////////////////////////////
+
+User: oski
+Operation: Suma
+Input: 20 + 20 
+Resultado: 40 
+Fecha: 11/10/2023 23:16:48
+///////////////////////////////////////
